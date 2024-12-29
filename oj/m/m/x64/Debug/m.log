@@ -1,0 +1,21 @@
+﻿  m.c
+D:\学习文件\note\oj\m\m.c(12,9): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\学习文件\note\oj\m\m.c(27,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+      D:\学习文件\note\oj\m\m.c(27,9):
+      请考虑在格式字符串中使用“%lld”
+      D:\学习文件\note\oj\m\m.c(27,9):
+      请考虑在格式字符串中使用“%Id”
+      D:\学习文件\note\oj\m\m.c(27,9):
+      请考虑在格式字符串中使用“%I64d”
+  
+D:\学习文件\note\oj\m\m.c(41,17): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\学习文件\note\oj\m\m.c(52,15): warning C4133: “函数”: 从“int [1]”到“__int64 *”的类型不兼容
+D:\学习文件\note\oj\m\m.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+      D:\学习文件\note\oj\m\m.c(53,9):
+      请考虑在格式字符串中使用“%lld”
+      D:\学习文件\note\oj\m\m.c(53,9):
+      请考虑在格式字符串中使用“%Id”
+      D:\学习文件\note\oj\m\m.c(53,9):
+      请考虑在格式字符串中使用“%I64d”
+  
+  m.vcxproj -> D:\学习文件\note\oj\m\x64\Debug\m.exe

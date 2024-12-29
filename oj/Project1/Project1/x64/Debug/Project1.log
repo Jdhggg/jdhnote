@@ -1,0 +1,9 @@
+﻿  main.c
+D:\学习文件\note\oj\Project1\main.c(13,10): warning C4133: “=”: 从“int *”到“char *”的类型不兼容
+D:\学习文件\note\oj\Project1\main.c(19,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\学习文件\note\oj\Project1\main.c(19,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\学习文件\note\oj\Project1\main.c(24,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\学习文件\note\oj\Project1\main.c(24,16): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
+D:\学习文件\note\oj\Project1\main.c(34,16): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+D:\学习文件\note\oj\Project1\main.c(34,16): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "char *" 的参数 1 冲突
+  Project1.vcxproj -> D:\学习文件\note\oj\Project1\x64\Debug\Project1.exe
